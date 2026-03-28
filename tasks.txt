@@ -1,0 +1,100 @@
+Punch a tree
+Craft a crafting table
+Craft a wooden pickaxe
+Craft a wooden shovel
+Craft a wooden sword
+Craft a wooden hoe
+Craft a wooden axe
+Collect 10 dirt blocks
+Collect 10 cobblestone
+Craft a furnace
+Craft a stone pickaxe
+Mine one piece of coal
+Place a torch
+Craft a chest
+Craft a wooden door
+Craft a wooden button
+Craft a wooden pressure plate
+Craft a fence
+Craft a fence gate
+Craft a sign
+Craft a ladder
+Craft a bowl
+Craft a boat
+Craft a wooden slab
+Craft a wooden stair
+Strip a log with an axe
+Till a grass block with a hoe
+Path a grass block with a shovel
+Collect a stack of 64 dirt
+Break a block of leaves
+Collect a sapling
+Plant a sapling
+Collect a stick from a leaf block
+Kill a pig
+Kill a cow
+Kill a sheep
+Kill a chicken
+Collect a piece of raw mutton
+Collect a piece of raw beef
+Collect a piece of raw porkchop
+Collect a piece of raw chicken
+Collect a feather
+Collect a piece of leather
+Collect a piece of wool
+Dye a piece of wool
+Craft a bed
+Sleep in a bed
+Set your spawn point
+Submerge your head in water
+Swim for 10 seconds
+Jump into water from 10 blocks high
+Collect a bucket of water
+Collect a bucket of milk
+Drink a bucket of milk
+Eat a piece of food
+Smelt one item in a furnace
+Cook one piece of meat
+Craft a torch
+Craft a campfire
+Mine one iron ore
+Mine one copper ore
+Mine one gold ore
+Craft a flint and steel
+Light a fire on the ground
+Extinguish a fire by punching it
+Craft a stone sword
+Craft a stone shovel
+Craft a stone axe
+Craft a stone hoe
+Collect a poppy
+Collect a dandelion
+Collect a sugar cane
+Craft paper
+Craft a map
+Look at a map
+Open your inventory
+Crouch for 5 seconds
+Sprint for 100 blocks
+Jump 20 times
+Throw an item on the ground
+Pick up a dropped item
+Craft a gold nugget
+Craft an iron nugget
+Craft a glass bottle
+Fill a bottle with water
+Craft a wooden trapdoor
+Place a block at build height
+Dig a hole to y=0
+Build a 5 block tall pillar
+Break your 5 block tall pillar
+Craft a button and press it
+Craft a lever and flick it
+Open and close a door 5 times
+Craft a stick
+Craft a slab
+Craft a stair
+Shear a sheep
+Tame a wolf
+Tame a cat
+Punch a mob
